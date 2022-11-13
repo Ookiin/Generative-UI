@@ -2,7 +2,7 @@ in .html you need to add
 
 <body>
 
-<canvas class="orb-canvas"></canvas> //FIRST
+<canvas class="orb-canvas"></canvas> // <--------
 
 //////////////////////
 
@@ -18,7 +18,7 @@ all your code
 
 //////////////////////
 
-<script type="module" src="./script.js"></script> //LAST
+<script type="module" src="./script.js"></script> // <-----------
 
 </body>
 
